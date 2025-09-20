@@ -1,3 +1,0 @@
-data/raw/heart_disease_risk.csv
-*.ipynb_checkpoints
-__pycache__/
