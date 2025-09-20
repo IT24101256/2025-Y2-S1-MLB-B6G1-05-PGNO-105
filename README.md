@@ -33,6 +33,39 @@ This project aims to design, implement, and evaluate an end-to-end AI/ML solutio
 - **Progress Review I**: This repo contains notebooks for viva demo, integrating all preprocessing steps into `group_pipeline.ipynb`.
 - **Ethical Considerations**: Synthetic data avoids privacy issues but may lack real-world bias representation, which will be explored in the evaluation stage.
 - **Collaboration**: Repo tracked on GitHub for version control and teamwork evidence (pending setup).
----
+## Repository Structure
+Group_ID/
+├── README.md
+├── data/
+│   └── raw/heart_disease_risk.csv
+├── notebooks/
+│   ├── IT24101185_Handling_Missing.ipynb
+│   ├── IT24101256_Encoding_Categoricals.ipynb
+│   ├── IT24101128_Outlier_Removal.ipynb
+│   ├── IT24101086_Normalization_Scaling.ipynb
+│   ├── IT24101236_Feature_Engineering.ipynb
+│   ├── IT24101205_Feature_Selection_PCA.ipynb
+│   └── group_pipeline.ipynb
+└── results/
+    ├── eda_visualizations/
+    ├── logs/
+    └── outputs/
+## Preprocessing Pipeline
+Raw Dataset
+   ↓
+1. Handling Missing Data → Member 1
+   ↓
+2. Encoding Categorical Variables → Member 2
+   ↓
+3. Outlier Removal → Member 3
+   ↓
+4. Normalization / Scaling → Member 4
+   ↓
+5. Feature Engineering → Member 5
+   ↓
+6. Feature Selection / PCA → Member 6
+   ↓
+Final Processed Dataset → results/outputs/final_processed.csv
+
 ---
 *Last Updated: September 20, 2025*
