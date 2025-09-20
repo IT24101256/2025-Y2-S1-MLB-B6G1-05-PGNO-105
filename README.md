@@ -1,5 +1,5 @@
-# Group Project: Heart Disease Risk Prediction
-
+# 2025-Y2-S1-MLB-B6G1-05-PGNO-105
+IT2011 Group Project: Heart Disease Risk Prediction
 
 ## Overview
 This project aims to design, implement, and evaluate an end-to-end AI/ML solution to predict heart disease risk using supervised learning techniques. The focus is on a real-world healthcare problem, leveraging a synthetic dataset to identify high-risk patients based on symptoms, lifestyle, and medical features. The solution will include data preprocessing, exploratory data analysis (EDA), model training, and a critical evaluation of performance and ethical implications, aimed at healthcare providers for early intervention.
