@@ -12,12 +12,12 @@ This project aims to design, implement, and evaluate an end-to-end AI/ML solutio
 - **Justification**: The dataset meets the minimum requirement of ≥6 features and ≥1,000 records. Its large size and synthetic nature ensure robustness for ML modeling, while the variety of features (demographic, lifestyle, medical) aligns with the healthcare domain for predicting heart disease risk. Data is clean (no missing values per Kaggle), enhancing feasibility.
 - **Alternatives Considered**: UCI Heart Disease (303 records, rejected for size); Framingham Heart Study (narrow focus on cholesterol, less comprehensive).
 ## Group Member Roles
-- IT24101185 (Member 1 - [Ranasinghe R.M.D.V]): Handling Missing Data
+- IT24101185 (Member 1 - [Ranasinghe R.M.D.V]): Handling Missing Data & Dimension Reduction
 - IT24101256 (Member 2 - [Niruba.N]): Encoding Categorical Variables
 - IT24101128 (Member 3 - [Jayathungage D.K.C]): Outlier Removal
 - IT24101086 (Member 4 - [Weerasinghe W.A.T.V]): Normalization/Scaling
 - IT24101236 (Member 5 - [Rajapaksha R.A.J.K]): Feature Engineering
-- IT24101205 (Member 6 - [Mahalonage C.A.S]): Feature Selection & Dimension Reduction
+- IT24101205 (Member 6 - [Mahalonage C.A.S]): Feature Selection 
 
 ## How to Run the Code
 1. **Prerequisites**: Ensure Python 3.x is installed with the following libraries:
@@ -68,4 +68,4 @@ Raw Dataset
 Final Processed Dataset → results/outputs/final_processed.csv
 
 ---
-*Last Updated: September 20, 2025*
+*Last Updated: September 23, 2025*
